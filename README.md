@@ -1,1 +1,3 @@
-# ImageProcessingProject
+# TO RUN PROJECT
+## 1. OPEN THE FOLDER - ALGORITHM
+## 2. RUN mainTest.py
